@@ -2,6 +2,9 @@
 
 ##Table of Contents
 
+### Installation
+You will need to install Phaser in the integrated terminal using `npm install phaser@3.55.2`
+
 ### Testing
 enter `npx http-server [path] [options]` to open an easy testing web server.
 
